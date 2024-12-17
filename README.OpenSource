@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-default-preference",
+        "License": "MIT License",
+        "License File": "https://github.com/kevinresol/react-native-default-preference/blob/master/LICENSE",
+        "Version Number": "1.4.4",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/kevinresol/react-native-default-preference",
+        "Description": "Use SharedPreference (Android) and UserDefaults (iOS) with React Native over a unified interface"
+    }
+]
